@@ -1,0 +1,5 @@
+com/bitcoiin/api/service/MarketAPIImpl.class
+com/bitcoiin/api/service/MarketAPI.class
+com/bitcoiin/api/service/MarketAPIFactory.class
+com/bitcoiin/api/service/Application.class
+com/bitcoiin/api/service/Market.class
